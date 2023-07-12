@@ -1,0 +1,9 @@
+<!-- drawable_custom_thumb.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Custom thumb drawable -->
+    <item
+        android:id="@+id/thumbDrawable"
+        android:drawable="@drawable/tooltip_background" />
+
+    <!-- Custom tooltip layout -->
+</layer-list>
